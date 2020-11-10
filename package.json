@@ -1,0 +1,15 @@
+{
+  "name": "myresume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "resume": "resume"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "resume-cli": "^2.0.0"
+  }
+}
